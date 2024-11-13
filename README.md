@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crime-Reporting-System
 The Online crime reporting system which is a Web application designed in PHP  which aims to provide crime management solutions such as filing of FIR  and checking its status accessible to everyone
 
@@ -14,3 +15,7 @@ We created a website with 4 functionalities which includes login pages for user,
 • From headquarter portal we can add police station to different areas and view all the cases
 
 • We also added a google map in our user portal page which detects your current location and shows you the location of nearest police station
+=======
+# crimetemplate
+template test purpose
+>>>>>>> 5d3607dc7a87f3f682c99ce92c03128028aac056
